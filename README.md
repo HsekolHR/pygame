@@ -8,5 +8,5 @@ This is just simple, which an text in the opened window to be moved and stopped.
 
 Installation Required:
 
-  pip install pygame
+    pip install pygame
  
